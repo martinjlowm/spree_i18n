@@ -135,7 +135,7 @@ da:
       user: 
         email: Email
       variant: 
-        cost_price: "Kost pris"
+        cost_price: "Kostpris"
         depth: Dybde
         height: Højde
         price: Pris

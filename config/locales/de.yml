@@ -2,6 +2,14 @@
 de: 
   'no': "Nein"
   'yes': "Ja"
+  number:
+    currency:
+      format:
+        format: "%u%n"
+        unit: "€"
+        precision: 2
+        separator: ','
+        delimiter: '.'
   5_biggest_spenders: "5 stärkste Käufer"
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: "Eine Kopie aller E-Mails wird den folgenden Adressen geschickt"
   abbreviation: Abkürzung

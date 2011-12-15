@@ -3,9 +3,9 @@ de:
   'no': "Nein"
   'yes': "Ja"
   number:
-  	format:
-  		separator: ','
-  		delimiter: '.'
+    format:
+      separator: ','
+      delimiter: '.'
     currency:
       format:
         format: "%u%n"

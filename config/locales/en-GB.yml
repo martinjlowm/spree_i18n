@@ -3,9 +3,9 @@ en-GB:
   'no': "No"
   'yes': "Yes"
   number:
-  	format:
-  		separator: '.'
-  		delimiter: ','
+    format:
+      separator: '.'
+      delimiter: ','
     currency:
       format:
         format: "%u%n"

@@ -367,7 +367,7 @@ da:
   default: Standard
   delete: Slet
   delivery: Levering
-  depth: Dypde
+  depth: Dybde
   description: Beskrivelse
   destroy: Slet
   didnt_receive_confirmation_instructions: "Modtog du ingen bekræftelsesinstruktioner?"
@@ -505,7 +505,7 @@ da:
   listing_product_groups: "Viser produkt grupper"
   listing_reports: "Viser rapporter"
   listing_tax_categories: "Viser momskategorier"
-  listing_users: "Viser brugerer"
+  listing_users: "Viser brugere"
   live: "Live"
   loading: Indlæser
   locale_changed: "Sproget er ændret"
@@ -1053,7 +1053,7 @@ da:
   user_details: "Brugerdetaljer"
   user_rule: 
     choose_users: Vælg bruger
-  users: Brugerer
+  users: Brugere
   validate_on_profile_create: Validerer når profile oprettes
   validation: 
     cannot_be_less_than_shipped_units: "kan ikke være mindre end antallet af leverede enheder."

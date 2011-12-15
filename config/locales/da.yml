@@ -255,7 +255,7 @@ da:
   alt_text: Alternativ tekst
   alternative_phone: Alternative telefonnummer
   amount: Beløb
-  analytics_trackers: Statestiksporer
+  analytics_trackers: Statistiksporer
   api: 
     access: "API-adgang"
     clear_key: "Slet API nøglen"
@@ -981,7 +981,7 @@ da:
   start_date: Gyldig fra
   state: Delstat
   state_based: "Delstatsbaseret"
-  state_setting_description: "Håndter listen af delstater/provinder tilhørende hvert land."
+  state_setting_description: "Håndter listen af delstater/provinser tilhørende hvert land."
   states: Delstater
   status: Status
   stop: Stop

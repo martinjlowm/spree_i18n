@@ -1047,14 +1047,14 @@ da:
   use_billing_address: Brug som faktureringsadresse
   use_different_shipping_address: "Brug anden leveringsadresse"
   use_new_cc: "Brug et nyt kort"
-  user: Bruer
+  user: Bruger
   user_account: Brugerkonto
   user_created_successfully: "Bruger oprettet"
   user_details: "Brugerdetaljer"
   user_rule: 
     choose_users: Vælg bruger
   users: Brugere
-  validate_on_profile_create: Validerer når profile oprettes
+  validate_on_profile_create: Valider når profil oprettes
   validation: 
     cannot_be_less_than_shipped_units: "kan ikke være mindre end antallet af leverede enheder."
     is_too_large: "er for stor -- der er ikke nok på lager!"

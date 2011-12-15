@@ -3,13 +3,14 @@ da:
   'no': "Nej"
   'yes': "Ja"
   number:
+  	format:
+  		separator: ','
+  		delimiter: '.'
     currency:
       format:
         format: "%n %u"
         unit: "kr."
         precision: 2
-        separator: ','
-        delimiter: '.'
   5_biggest_spenders: "5 største forbrugere"
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses:  "En kopi af alle emails vil blive sent til følgende addresse"
   abbreviation: Forkortelse
